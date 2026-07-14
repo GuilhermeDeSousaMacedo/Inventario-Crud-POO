@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "tipo": "Laptop",
+        "hostname": "r",
+        "responsavel": "a",
+        "setor": "",
+        "vulnerabilidades": [
+            {
+                "id": 1,
+                "descricao": "é merda",
+                "categoria": "muito tenso",
+                "severidade": "alta",
+                "status": "aberta"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "tipo": "Roteador",
+        "hostname": "eu dnv",
+        "responsavel": "vai dar certo agr",
+        "setor": "codó",
+        "vulnerabilidades": []
+    }
+]
