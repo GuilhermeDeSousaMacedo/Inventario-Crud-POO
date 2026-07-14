@@ -8,8 +8,8 @@
         "vulnerabilidades": [
             {
                 "id": 1,
-                "descricao": "é merda",
-                "categoria": "muito tenso",
+                "descricao": "possivel quebra de tela",
+                "categoria": "hardware",
                 "severidade": "alta",
                 "status": "aberta"
             }
@@ -19,7 +19,7 @@
         "id": 2,
         "tipo": "Roteador",
         "hostname": "eu dnv",
-        "responsavel": "vai dar certo agr",
+        "responsavel": "Guilherme Ma",
         "setor": "codó",
         "vulnerabilidades": []
     }
