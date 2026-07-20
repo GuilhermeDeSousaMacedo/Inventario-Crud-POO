@@ -5,6 +5,35 @@ De acordo com o meu entendimento acerca do projeto apresentado criei mais uma ve
 ### -Programação orientada à objeto em Python
 ### -Utilização do docker por 24h como forma de dar veracidade ao projeto no mundo moderno de hoje
 ### -Utilização de Sql como banco de dados no formato Json
+## •Funcionalidades:
+### •Cadastro de equipamentos de TI.
+### •Cadastro de vulnerabilidades associadas a cada equipamento.
+### •Consulta de equipamentos por tipo e ID.
+### •Atualização de informações dos equipamentos.
+### •Exclusão de equipamentos cadastrados.
+### •Atualização de vulnerabilidades existentes.
+### •Armazenamento permanente dos dados em arquivo JSON.
+### •Carregamento automático dos dados ao iniciar o programa.
+### •Interface interativa via terminal (CLI).
+### •Geração automática de IDs únicos para equipamentos e vulnerabilidades.
+## •Tipos de equipamentos suportados
+### •💻 Laptop
+### •🖥️ Servidor
+### •🌐 Roteador
+### •🖨️ Impressora
+## •Informações armazenadas para cada equipamento
+### •ID
+### •Tipo
+### •Hostname
+### •Responsável
+### •Setor
+### •Lista de vulnerabilidades
+### •Informações armazenadas para cada vulnerabilidade
+### •VulnID
+### •Descrição
+### •Categoria
+### •Severidade
+### •Status
 
 
 
