@@ -35,8 +35,10 @@ De acordo com o meu entendimento acerca do projeto apresentado criei mais uma ve
 ### •Severidade
 ### •Status
 
-## -Localização:
-### •Projeto se encontra atualmente para disposição em dois locais, sendo eles: o repositório profissional público de Guilherme de Sousa Macêdo e na imagem: poo-crud-project:v1 de Id:e05215189eac  user:guilherme.sousa no servidor da 1º turma do curso de cibersegurança da Ufu.
+# -Localização:
+## •Projeto se encontra atualmente para disposição em dois locais, sendo eles: 
+### •Repositório profissional público de Guilherme de Sousa Macêdo  
+### • E na imagem: poo-crud-project:v1 de Id:e05215189eac  user:guilherme.sousa no servidor da 1º turma do curso de cibersegurança da Ufu.
 
 
 
